@@ -1,5 +1,4 @@
 # import const file/module to be used for constants
-from ctypes import Union
 import const
 
 # import os module for system commands
